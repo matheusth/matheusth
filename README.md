@@ -1,7 +1,8 @@
 ### Matheus Henrique Passos de Oliveira
-[![@matheushti's Holopin board](https://holopin.io/api/user/board?user=matheushti)](https://holopin.io/@matheushti)
 I am woking on "Instituto Federal de Educação, Ciência e Tecnologia Goiano - Campus Trindade", work in development and User support.
 
+
+### Technologies
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
